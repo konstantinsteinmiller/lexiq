@@ -9,7 +9,6 @@
  Languages intent mit Language names
  /language -> result enthält verfügbare language-Names, falls selectedTargetLanguage in language names, set language over /learner/{languageName}
  /onboarding-completed -> solange 204, get /onboarding-completed, else get /sentence
-
  */
 
 var deviceLocale = '';
